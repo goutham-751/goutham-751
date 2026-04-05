@@ -12,8 +12,7 @@
 🔭 Currently building **AI-powered & Full-Stack applications**  
 🤖 Working on **LLM Resume Shortlisting Bot & Health Monitoring Systems**  
 🌱 Learning **Advanced Statistics, Neural Networks & Pose Estimation**  
-💡 Passionate about solving real-world problems using **AI + Data + Code**  
-🏋️‍♂️ Fitness enthusiast & consistent gym-goer  
+💡 Passionate about solving real-world problems using **AI + Data + Code**   
 
 ---
 
