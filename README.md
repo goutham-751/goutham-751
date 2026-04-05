@@ -1,76 +1,116 @@
 <h1 align="center">Hi 👋, I'm Goutham Kumar</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Full-Stack Developer</h3>
+<h3 align="center">AI/ML Engineer | Data Science Student | Systems & Research Enthusiast</h3>
+
 <p align="center">
-🎓 CSE (Data Science) @ VIT Chennai <br>
-🚀 Building AI-powered solutions for real-world problems
+🎓 CSE (Data Science) @ VIT Chennai (CGPA: 8.83) <br>
+🔬 Former Research Intern @ IGCAR (Dept. of Atomic Energy) <br>
+🚀 Building AI-driven systems & scalable full-stack applications
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🔭 Currently building **AI-powered & Full-Stack applications**  
-🤖 Working on **LLM Resume Shortlisting Bot & Health Monitoring Systems**  
-🌱 Learning **Advanced Statistics, Neural Networks & Pose Estimation**  
-💡 Passionate about solving real-world problems using **AI + Data + Code**   
+🔬 Research-oriented developer with strong focus on **AI, ML & Systems**  
+⚡ Experienced in **real-world data analysis, anomaly detection & predictive modeling**  
+🤖 Building intelligent systems using **LLMs, NLP & Deep Learning**  
+📊 Strong foundation in **statistics, machine learning & data pipelines**  
 
 ---
 
-## 🚀 Current Focus
+## 💼 Experience
 
-- 🤖 **LLM Resume Shortlisting & Interview Bot**  
-  GPT + LangChain + Vector DB + Voice Interface  
+### 🔬 Summer Research Intern — IGCAR (DAE)
+📍 Kalpakkam, Chennai | 🗓️ Jun 2025 – Jul 2025  
 
-- 🧠 **FitFusion Pose Estimation**
-  MoveNet / BlazePose for real-time form correction  
+- Performed **radiological data analysis** for dose mapping using statistical modeling  
+- Built **data preprocessing & anomaly detection pipelines**  
+- Conducted **trend analysis on radiation exposure patterns**  
+- Contributed to **industrial & healthcare safety assessment models**
 
-- 🐥 **Chicken Disease Classification**
-  CNN + TensorFlow for poultry health detection  
+---
 
-- 🛒 **AI-powered Health E-commerce Platform**
-  React + Recommendation + Subscription System  
+### 💻 Treasurer — CyberSecurity Student Community (VITC)
+🗓️ Jun 2025 – Present  
+
+- Managed finances & budgeting for events  
+- Organized **CTFs & hands-on cybersecurity workshops**  
+- Mentored 200+ students in cybersecurity fundamentals  
+
+---
+
+## 🚀 Projects
+
+### 🤖 CAMPUSHIRE.AI — Resume & Interview Platform
+**Tech:** React, FastAPI, Python, NLP  
+
+- Built full-stack AI platform for **ATS scoring & resume parsing**  
+- Integrated **LLM-based interview question generation**  
+- Developed **voice-based interview simulation system**  
+- Designed scalable backend for **PDF/DOCX processing & NLP pipelines**
+
+---
+
+### 📊 PricePilot AI — Pricing Intelligence System
+**Tech:** React, FastAPI, Supabase  
+
+- Built system for **price optimization using market & demand data**  
+- Implemented **forecasting & price elasticity models**  
+- Created analytics dashboard for **business decision-making**
+
+---
+
+### ⚙️ Predictive Maintenance System
+**Tech:** Python, Streamlit, FastAPI  
+
+- Developed ML models for **failure prediction & RUL estimation**  
+- Handled **imbalanced datasets & improved classification accuracy**  
+- Built real-time dashboard for predictions  
+
+---
+
+## 🧪 Research Work
+
+### 📄 CalibSSL (Ongoing)
+- Improving **calibration of self-supervised models on tabular data**  
+- Implemented **ViME pretraining technique**  
+- Benchmarked across **multiple datasets & label scarcity scenarios**  
+- Applied **statistical significance testing (t-test, Wilcoxon, Friedman)**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 👨‍💻 Languages
+Python | Java | JavaScript | C/C++ | SQL | R | MATLAB  
 
-### 🌐 Web & App Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-563D7C?style=for-the-badge&logo=vite&logoColor=white)
+### ⚙️ Frameworks & Tools
+React | FastAPI | Streamlit | Docker | AWS | GitHub  
 
-### 🤖 AI / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 📊 Libraries
+Pandas | NumPy | Scikit-learn | TensorFlow | spaCy | Matplotlib  
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🗄️ Databases
+MySQL | Supabase  
+
+### 📈 Analytics Tools
+Tableau | Excel  
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 
-✔ 🚀 Deployed React portfolio on **AWS EC2 with Apache**  
-✔ 🛡️ Completed **Penetration Testing & Security Tools Project**  
-✔ 🧠 Built **Fraud Detection & Churn Prediction ML systems**  
-✔ 🏆 Active participant in Hackathons & CTF competitions  
+🏅 **Bounty Winner — DEFY 26 Hackathon**  
+- Won ₹50,000 for **ParaCipher (Blockchain Insurance System)**  
 
 ---
 
-## 📈 Currently Learning
+## 🌱 Currently Learning
 
-📊 Advanced Statistics for Data Science  
-🧠 Deep Learning & ANN Architectures  
+📊 Advanced Statistics & Model Optimization  
+🧠 Deep Learning Architectures (ANNs, Self-Supervised Learning)  
 🔗 Blockchain & Post-Quantum Cryptography  
-📚 Retrieval-Augmented Generation (RAG) Systems  
+📚 Retrieval-Augmented Generation (RAG Systems)  
 
 ---
 
@@ -89,5 +129,4 @@
 
 ## ✨ Motto
 
-> **“Code with purpose. Build with intelligence. Solve real problems.”**
-
+> **"Build intelligent systems. Solve real-world problems. Ship impact."**
