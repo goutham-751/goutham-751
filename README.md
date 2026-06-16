@@ -42,11 +42,9 @@
 
 🔬 Researcher @ CalibSSL
 
-🏆 ₹50,000 Hackathon Winner
+🏆 Hackathon Winner
 
 📄 Research Paper Under Review
-
-🎓 CGPA 8.85/10
 
 </td>
 
@@ -67,29 +65,6 @@
 </td>
 </tr>
 </table>
-
----
-
-# 🧠 System Architecture
-
-```mermaid
-graph TD
-
-A[React Frontend]
---> B[FastAPI Backend]
-
-B --> C[ATS Engine]
-B --> D[Speech Analytics]
-B --> E[Multi Agent Layer]
-
-E --> F[OpenAI]
-E --> G[Anthropic]
-E --> H[Groq]
-
-F --> I[Evaluation Engine]
-G --> I
-H --> I
-```
 
 ---
 
