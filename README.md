@@ -87,10 +87,20 @@ AI-powered recruitment platform
 - Speech Analytics
 - Llama-3 Integration
 
-### Stack
+<div align="center">
 
-React • FastAPI • Agentic AI • NLP
+<img src="https://skillicons.dev/icons?i=react,fastapi,python,postgresql"/>
 
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Llama_3-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speech_Analytics-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge"/>
+
+</p>
 </td>
 
 <td width="50%">
@@ -107,9 +117,21 @@ Production SaaS RAG Platform
 - RRF Ranking
 - Groq LLM
 
-### Stack
+<div align="center">
 
-FastAPI • LangChain • Docker
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker"/>
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BM25-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RRF-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-10B981?style=for-the-badge"/>
+
+</p>
 
 </td>
 
@@ -123,6 +145,28 @@ FastAPI • LangChain • Docker
 ## CalibSSL
 
 Reliability and Calibration of Self-Supervised Neural Networks on Tabular Data
+* Designed and implemented CalibSSL, a novel semi-supervised deep learning 
+  framework combining VIME-based self-supervised pretraining with entropy 
+  regularization for tabular classification, achieving statistically significant 
+  improvements in accuracy (+1.4%, p<0.001) and Expected Calibration Error 
+  (-15.6%, p<0.0001) across 600 controlled experiments on 5 real-world datasets
+
+* Engineered end-to-end ML pipeline in PyTorch benchmarking 8 models 
+  (XGBoost, Random Forest, TabularMLP, SSL variants) across 5 label scarcity 
+  regimes (5%-100%), producing publication-grade statistical analysis including 
+  paired t-tests, Wilcoxon signed-rank tests, Friedman tests, and Cohen's d 
+  effect size measurements
+
+* Identified and empirically proved a critical flaw in self-supervised learning 
+  for tabular data — SSL-induced calibration degradation (+11.1% ECE increase) — 
+  and developed a calibration-aware fine-tuning solution using confidence penalty 
+  regularization, targeting high-stakes domains including medical diagnosis and 
+  financial risk assessment
+
+* Built automated experimentation framework generating 600 reproducible ML 
+  experiments with multi-seed validation (seeds: 42, 123, 456), stratified 
+  label sampling, and comprehensive evaluation across Accuracy, F1, AUC-ROC, 
+  ECE, MCE, and Brier Score metrics on OpenML benchmark datasets.
 
 Status:
 
@@ -148,28 +192,4 @@ Status:
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goutham-751&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-751&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutham-751&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-### Build → Ship → Scale
-
-*Building intelligent systems that solve real-world problems.*
-
-</div>
