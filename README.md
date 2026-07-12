@@ -21,7 +21,7 @@
 
 ## About
 
-B.Tech CSE (Data Science) student at VIT Chennai with a CGPA of 8.85. I build full-stack applications and AI-powered systems — from multi-tenant RAG APIs to recruitment platforms. My work sits at the intersection of backend engineering and applied ML, with a focus on systems that are production-ready rather than prototype-grade.
+B.Tech CSE (Data Science) student at VIT Chennai . I build full-stack applications and AI-powered systems — from multi-tenant RAG APIs to recruitment platforms. My work sits at the intersection of backend engineering and applied ML, with a focus on systems that are production-ready rather than prototype-grade.
 
 Currently researching self-supervised learning calibration on tabular data (under review).
 
