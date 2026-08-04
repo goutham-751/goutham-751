@@ -12,7 +12,7 @@
 
 <p>
   <a href="mailto:kgoutham2k5@gmail.com">kgoutham2k5@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://my-portfolio-three-dun-97.vercel.app/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://goutham-portfolio7.vercel.app/" target="_blank">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/goutham-kumar7" target="_blank">LinkedIn</a>
 </p>
 
